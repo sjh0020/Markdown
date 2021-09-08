@@ -9,5 +9,5 @@
 
 # People
 
-:bowtie: `:bowtie:`  :smile: `:smile:`  :simple_smile: `:simple_smile:`
+:bowtie: `:bowtie:` :smile: `:smile:` :simple_smile: `:simple_smile:` :laughing: `:laughing:` :blush: `:biush:`
 
